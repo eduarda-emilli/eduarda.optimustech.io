@@ -2,5 +2,7 @@
 
 <p>Prévia do Projeto: </p>
 
-<img src="./gif.mp4" alt="gif do projeto">
+<img src="./gif.gif" alt="gif do projeto">
+
+
 
