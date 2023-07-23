@@ -4,3 +4,4 @@
 
 <img src="gif.gif" alt="gif do projeto">
 
+Acesse aqui: https://eduarda-emilli.github.io/eduarda.optimustech.io/
